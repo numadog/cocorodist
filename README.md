@@ -2,4 +2,4 @@
 
 please import UniRX
 
-ver1.0.0 is defective with Animator
+ver1.0.0 has a bug in Animator
